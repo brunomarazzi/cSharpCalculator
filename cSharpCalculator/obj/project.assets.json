@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\bruno.soares\\.nuget\\packages\\": {}
+    "C:\\Users\\bruno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno.soares\\source\\repos\\cSharpCalculator\\cSharpCalculator\\cSharpCalculator.csproj",
+      "projectUniqueName": "B:\\cSharpCalculator\\cSharpCalculator\\cSharpCalculator.csproj",
       "projectName": "cSharpCalculator",
-      "projectPath": "C:\\Users\\bruno.soares\\source\\repos\\cSharpCalculator\\cSharpCalculator\\cSharpCalculator.csproj",
-      "packagesPath": "C:\\Users\\bruno.soares\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno.soares\\source\\repos\\cSharpCalculator\\cSharpCalculator\\obj\\",
+      "projectPath": "B:\\cSharpCalculator\\cSharpCalculator\\cSharpCalculator.csproj",
+      "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
+      "outputPath": "B:\\cSharpCalculator\\cSharpCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bruno.soares\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,8 +51,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -61,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
