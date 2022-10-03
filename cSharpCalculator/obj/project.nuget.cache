@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cw48NkE4ZF0TSOwsajdlzp+5PMHqRdWtVIqp9I5vrOYUUv41zjgLgJKNgEU0iFA3DLLMsPl0q6q+BBd8N1L6Uw==",
+  "dgSpecHash": "5SU17tWgAM4FTXT+WDmknvP8cjXpzpuPylEZLYhhr7JBgGsIaDrFTFDANnp9z2kmjiPWAUereOUciORZTjMcXg==",
   "success": true,
-  "projectFilePath": "B:\\cSharpCalculator\\cSharpCalculator\\cSharpCalculator.csproj",
+  "projectFilePath": "C:\\Users\\bruno.soares\\source\\repos\\cSharpCalculator\\cSharpCalculator\\cSharpCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
