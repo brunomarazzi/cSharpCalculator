@@ -28,18 +28,22 @@
                     valid = double.TryParse(Console.ReadLine(), out num1);
                 }
 
-                // https://stackoverflow.com/questions/18671774/c-sharp-allow-user-to-input-again-until-correct
-
                 Console.WriteLine("\tChoose an operation: ");
                 Console.WriteLine("\t+ : Addition");
                 Console.WriteLine("\t- : Subtraction");
                 Console.WriteLine("\t* : Multiplication");
                 Console.WriteLine("\t/ : Division");
                 string operation = Console.ReadLine();
-                // validar aqui se a opção foi válida              
+                // adicionar validação
 
                 Console.Write("Insert the second number: ");
-                num2 = Convert.ToDouble(Console.ReadLine());
+                valid = double.TryParse(Console.ReadLine(), out num2);
+
+                while (!valid)
+                {
+                    Console.Write("Please insert a valid number: ");
+                    valid = double.TryParse(Console.ReadLine(), out num2);
+                }
 
                 switch (operation)
                 {
